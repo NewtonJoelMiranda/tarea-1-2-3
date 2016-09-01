@@ -1,0 +1,120 @@
+Alumno: Newton Miranda
+
+-01 Que es un servidor?
+
+Un servidor es una aplicación en ejecución (software) capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia.
+
+-02 Que es un protocolo dentro de la informática?
+
+En informática, un protocolo es un conjunto de reglas usadas por computadoras para comunicarse unas con otras a través de una red. Un protocolo es una convención o estándar que controla o permite la conexión, 
+comunicación, y transferencia de datos entre dos puntos finales.
+
+-03 Que es un servidor web?
+
+Un servidor web o servidor HTTP es un programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales y/o unidireccionales y 
+síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o Aplicación del lado del cliente.
+
+-04 Que son clientes?
+
+El cliente es una aplicación informática o un ordenador que consume un servicio remoto en otro ordenador conocido como servidor, normalmente a través de una red de telecomunicaciones. 
+También se puede definir un cliente es cualquier cosa (que no sea un servidor) que se conecta a un servidor.
+
+-05 Cual es el cliente web por excelencia?
+
+Los clientes web por excelencia son los navegadores y las aplicaciones móviles.
+
+-06 Que es html?
+
+HTML es el lenguaje que se emplea para el desarrollo de páginas de internet. Está compuesto por una serie de etiquetas que el navegador interpreta y da forma en la pantalla.
+
+-07 Que son las etiquetas?
+
+Las etiquetas HTML son fragmentos de texto rodeados por corchetes angulares < >, que tienen funciones y usos específicos y se utilizan para escribir código HTML.
+
+-08 Cuales son las diferencias entre la etiqueta h1,h2, h3, h4 h5, h6.
+
+   <h1>&lt;h1&gt; Texto muy grande</h1>
+   <h2>&lt;h2&gt; Texto grande</h2>
+   <h3>&lt;h3&gt; Texto algo más grande de lo normal</h3>
+   <h4>&lt;h4&gt; Texto normal</h4>
+   <h5>&lt;h5&gt; Texto pequeño</h5>
+   <h6>&lt;h6&gt; Texto muy pequeño</h6>
+
+-09 Con que etiqueta se agrega una imagen en un documento html?
+
+La etiqueta &lt;img&gt; funciona para colocar imágenes dentro de una página web. No necesita cierre y su sintaxis correcta es &lt;img src="nombredeimagen.jpg"&gt;.
+
+-10 Con que etiqueta se agrega un video en un documento html?
+
+La etiqueta &lt;video&gt; funciona para colocar videos dentro de una página web. Si necesita cierre y su sintaxis correcta es &lt;video src="nombredevideo.webm"&gt;&lt;/video&gt; 
+
+-11 Con que etiqueta se agrega un sonido en un documento html?
+
+La etiqueta &lt;audio&gt; funciona para colocar audios dentro de una página web. Si necesita cierre y su sintaxis correcta es &lt;audio src="/test/audio.ogg"&gt;&lt;/audio&gt;
+
+-12 Que es la etiqueta doctype?
+
+Los documentos HTML o XHTML están escritos en un lenguaje y con el Doctype especificamos este lenguaje y la versión del mismo. Los navegadores leerán esta declaración de doctype e interpretarán la página atendiendo a las reglas definidas en ese lenguaje.
+
+-13 Con que atributo se indica la imagen que se utiliza dentro de una etiqueta de imagen?
+
+Con el atributo src obligatorio se indica el nombre del archivo de imagen (entre comillas) o la URL desde la que se va a obtener la imagen.
+
+-14 Como se indica al navegador que el documento está escrito en idioma inglés?
+
+El atributo lang establece el idioma del documento o un rango de texto. Por ejemplo, lo siguiente establece el idioma predeterminado en francés: &lt;html lang="fr"&gt;
+
+-15 Que es una lista ordenada?
+
+Son elementos que se muestran siguiendo un orden determinado. La etiqueta &lt;ol&gt; encierra todos los elementos de la lista y la etiqueta &lt;li&gt; cada uno de sus elementos.
+
+-16 Que es una lista no ordenada?
+
+Una lista no ordenada es un conjunto de elementos relacionados entre sí pero para los que no se indica un orden o secuencia determinados. La etiqueta &lt;ul&gt; encierra todos los elementos de la lista y la etiqueta &lt;li&gt; cada uno de sus elementos.
+
+-17 Como se indica un párrafo?
+
+En HTML para demarcar un párrafo se usa la etiqueta p, situándose la instrucción de inicio &lt;p&gt; al comienzo del párrafo y la instrucción de fin &lt;/p&gt; tras la última frase
+
+-18 como se indica la negrita, la cursiva, el subrayado, el tachado, el subíndice y el súper índice?
+
+   &lt;b&gt;&hellip;&lt;/b&gt; <b>Poner texto en negrita</b>
+   &lt;i&gt;&hellip;&lt;/i&gt; <i>Poner texto en cursiva</i>
+   &lt;u&gt;&hellip;&lt;/u&gt; <u>Poner texto subrayado</u>
+   &lt;del&gt;&hellip;&lt;/del&gt; <del>Poner texto como tachado</del>
+   &lt;sub&gt;&hellip;&lt;/sub&gt; <sub>Poner texto subíndice</sub>
+   &lt;sup&gt;&hellip;&lt;/sup&gt; <sup>Poner texto superíndice</sup>
+
+-19 Que es git?
+
+Git (pronunciado "guit") es un software de control de versiones diseñado por Linus Torvalds, 
+pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
+
+-20 Que es github?
+
+GitHub es una plataforma de desarrollo colaborativo
+de software para alojar proyectos utilizando el sistema de control de versiones Git. 
+El código se almacena de forma pública, aunque también se puede hacer de forma privada, creando una cuenta de pago.
+   
+-21 Cual es el comando para clonar un repositorio, cual comando de utiliza?
+
+Si deseas obtener una copia de un repositorio Git existente —por ejemplo, un proyecto en el que te gustaría contribuir— el comando que necesitas es git clone
+
+-22 Que es commit?
+
+La sentencia COMMIT termina una unidad de trabajo y confirma los cambios.
+
+-23 Que es la rama master?
+
+La rama master es la rama "por defecto" cuando creas un repositorio. 
+
+-24 Que es un repositorio local y remoto?
+
+Los repositorios locales son versiones de tu proyecto que se encuentran alojados en tu equipo y los repositorios remotos son versiones de tu proyecto 
+que se encuentran alojados en Internet o en algún punto de la red. 
+
+-25 Que es un push?
+
+Es un mensaje que un servidor envía a una persona alertándolo de que tiene una información nueva.
+
+-26 Guardar el archivo con el nombre taller.md
